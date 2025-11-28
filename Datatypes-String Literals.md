@@ -1,3 +1,4 @@
+
 # Datatypes-Read and Print a String in Python
 
 ## 🎯 Aim
@@ -9,7 +10,12 @@ To write a Python program to read a string from the user and then print it.
 3. Print the value stored in the variable.
 
 ## 🧾 Program
-
+```
+men_stepped_on_the_moon=input()
+print(men_stepped_on_the_moon)
+```
 ## Output
+![image](https://github.com/user-attachments/assets/ee4c2001-4ee6-478c-a98c-58fa7f58d55b)
 
 ## Result
+Thus,the Python program to read a string from the user and then print it is created successfully.
